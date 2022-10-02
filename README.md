@@ -1,5 +1,5 @@
 - 👋 Paulo Sérgio
-- 🌱 Estudando .NET, Azure and docker
+- 🌱 Estudando C# .NET e tecnologias Azure
 - 📫 email para contato ps616131@gmail.com
 
 <!---
