@@ -1,9 +1,12 @@
-<h2>Olá
+<h2>Olá, Bem vindo ao meu perfil no Github</h2>
 
-- 👋 Meu nome é Paulo Sérgio
-- 🌱 Estudando C#, .NET, ASP.NET e tecnologias Azure
-- 📫 email para contato ps616131@gmail.com
+Meu nome é Paulo Sérgio, estudo e pretendo trabalhar com a linguagem C#, e tecnologias .NET, dev Beck-End :).
+Gosto muito de tecnologias de nuvem, tenho conhecimento em Azure e pretendo estudar AWS em breve.
+Sempre disposto a aprender coisas novas que envolvem tecnológia.
 
+Contato: 
+E-mail: ps616131@gmail.com
+discord: Paulo'-'Noob#9189
 
 <div>
 <a href="https://github.com/CsPauloNoob">
