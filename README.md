@@ -4,9 +4,10 @@ Meu nome é Paulo Sérgio, estudo e pretendo trabalhar com a linguagem C#, e tec
 Gosto muito de tecnologias de nuvem, tenho conhecimento em Azure e pretendo estudar AWS em breve.
 Sempre disposto a aprender coisas novas que envolvem tecnológia.
 
-Contato: 
-E-mail: ps616131@gmail.com
-discord: Paulo'-'Noob#9189
+<p>redes e meios de contato:</p>
+<p>LinkedIn: https://www.linkedin.com/in/paulo-s%C3%A9rgio-068777172 </p>
+<p>E-mail: ps616131@gmail.com</p>
+<p>discord: Paulo'-'Noob#9189</p>
 
 <div>
 <a href="https://github.com/CsPauloNoob">
