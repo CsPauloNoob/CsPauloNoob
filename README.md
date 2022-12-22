@@ -9,6 +9,7 @@ Sempre disposto a aprender coisas novas que envolvem tecnológia.
 <a href="https://www.linkedin.com/in/paulo-s%C3%A9rgio-068777172" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<p> </p>
 
 <div>
 <a href="https://github.com/CsPauloNoob">
