@@ -1,8 +1,9 @@
 <h2>Olá, Bem vindo ao meu perfil no Github</h2>
 
-Meu nome é Paulo Sérgio, estudo e pretendo trabalhar com a linguagem C#, e tecnologias .NET, dev Beck-End :).
-Gosto muito de tecnologias de nuvem, tenho conhecimento em Azure e pretendo estudar AWS em breve.
-Sempre disposto a aprender coisas novas que envolvem tecnológia.
+
+Meu nome é Paulo Sérgio e sou um aprendiz de desenvolvimento de software com interesse em <span style="color: blue">C#</span> e tecnologias <span style="color: blue">.NET</span>. Embora ainda não tenha experiência profissional, já realizei alguns projetos pessoais pequenos e estou sempre buscando aprender mais e me desenvolver. Além disso, tenho conhecimento em bancos de dados como <span style="color: blue">MySQL</span>, <span style="color: blue">SQLite</span> e <span style="color: blue">SQL Server</span>. Estou em constante busca de novas oportunidades e desafios que possam me ajudar a crescer como desenvolvedor.
+
+Se você gostaria de ver alguns dos meus projetos ou saber mais sobre mim, fique à vontade para dar uma olhada no meu perfil no GitHub. Eu fico feliz em compartilhar meu conhecimento e aprender com os outros. Obrigado por visitar!
 
 <div>
 <a href = "mailto:ps616131@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
