@@ -18,7 +18,10 @@ Se você quiser conferir alguns dos meus projetos ou saber mais sobre mim, fique
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CsPauloNoob&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+ <h2>🧑 Visitantes </h2>
+ 
+ <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
+ 
 <!---
-CsPauloNoob/CsPauloNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Se puder ajudar fique a vontade, sou péssimo no front-end :)
 --->
