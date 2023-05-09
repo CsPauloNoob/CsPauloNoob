@@ -20,8 +20,4 @@ Se você quiser conferir alguns dos meus projetos ou saber mais sobre mim, fique
 
  <h2>🧑 Visitantes </h2>
  
- <img src="https://profile-counter.glitch.me/catmiih/count.svg" />
- 
-<!---
-Se puder ajudar fique a vontade, sou péssimo no front-end :)
---->
+ <img src="https://profile-counter.glitch.me/CsPauloNoob/count.svg" />
