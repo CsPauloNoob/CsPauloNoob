@@ -1,7 +1,7 @@
 <h2>Olá, Bem vindo ao meu perfil no Github</h2>
 
 
-Meu nome é Paulo Sérgio e sou um aprendiz de desenvolvimento de software com interesse em <span style="color: blue">C#</span> e tecnologias <span style="color: blue">.NET</span>. Embora ainda não tenha experiência profissional, já realizei alguns projetos pessoais pequenos e estou sempre buscando aprender mais e me desenvolver. Além disso, tenho conhecimento em bancos de dados como <span style="color: blue">MySQL</span>, <span style="color: blue">SQLite</span> e <span style="color: blue">SQL Server</span>. Estou em constante busca de novas oportunidades e desafios que possam me ajudar a crescer como desenvolvedor.
+Meu nome é Paulo Sérgio e sou um desenvolvedor de software com interesse em <span style="color: blue">C#</span> e tecnologias <span style="color: blue">.NET</span>. Realizei alguns projetos pessoais pequenos e estou sempre buscando aprender mais e me desenvolver. Além disso, tenho conhecimento em bancos de dados como <span style="color: blue">MySQL</span>, <span style="color: blue">SQLite</span> e <span style="color: blue">SQL Server</span>. Estou em constante busca de novas oportunidades e desafios que possam me ajudar a crescer como desenvolvedor.
 
 Se você quiser conferir alguns dos meus projetos ou saber mais sobre mim, fique à vontade para dar uma olhada no meu perfil no GitHub. Eu fico feliz em compartilhar meu conhecimento e aprender com os outros. Obrigado por visitar!
 
